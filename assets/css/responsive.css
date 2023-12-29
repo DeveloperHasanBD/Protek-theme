@@ -1,0 +1,3159 @@
+@media (min-width: 1701px) and (max-width: 1800px) {}
+
+@media (min-width: 1501px) and (max-width: 1700px) {}
+
+@media(min-width:1620px) {
+    .container {
+        max-width: 1596px;
+    }
+
+
+}
+
+@media(min-width:1441px) and (max-width:1620px) {
+    header .main-header ul {
+        gap: 12px;
+    }
+
+    header .main-header .logo-box img {
+        max-width: 120px;
+    }
+
+    header .main-header.sticky .logo-box img {
+        max-width: 120px;
+    }
+}
+
+@media (min-width: 1366px) and (max-width: 1500px) {
+    .home-slider-main .swiper-slide .slide-bg {
+        min-height: 558px;
+        max-height: 724px;
+
+    }
+
+
+}
+
+/* min 1365px to max 1500px end here  */
+
+@media(min-width:1366px) and (max-width:1440px) {
+
+    /* avanzata page start from here  */
+    .breadcrumb-main {
+        padding: 15px 0 15px 0;
+    }
+
+    .breadcrumb-main nav ol {
+
+        align-items: center;
+    }
+
+    .breadcrumb-main nav ol li a {
+
+        font-size: 13px;
+
+    }
+
+    .breadcrumb-main nav ol li.active {
+        font-size: 13px;
+    }
+
+    header .main-header.bg-white {
+        padding-top: 40px;
+
+    }
+
+    header .main-header ul {
+
+        gap: 12px;
+    }
+
+    header .main-header .logo-box img {
+        max-width: 120px;
+    }
+
+    header .main-header.sticky .logo-box img {
+        max-width: 120px;
+    }
+
+    header .main-header ul li a {
+        font-size: 14px;
+
+    }
+
+    .avanzata-banner-main {
+        padding: 25px 0;
+    }
+
+    .avanzata-banner-main h2 {
+        font-size: 30px;
+        line-height: normal;
+        margin-bottom: 20px;
+
+    }
+
+    .avanzata-banner-main h2::before {
+
+        bottom: -9px;
+    }
+
+    .avanzata-main .filter-main {
+        margin-bottom: 50px;
+    }
+
+    .avanzata-main .filter-main .filter-title h4 {
+        font-size: 18px;
+    }
+
+    .avanzata-main .filter-main .accordion-button {
+        font-size: 11px;
+    }
+
+    .avanzata-main .filter-main .accordion-item {
+        margin-bottom: 25px;
+
+    }
+
+    .avanzata-main .filter-main .price-range-slider {
+
+        max-width: 100%;
+    }
+
+    .avanzata-main .filter-main .subtitle-flex {
+        align-items: center;
+        margin-bottom: 10px;
+    }
+
+    .avanzata-main .filter-main .subtitle-flex .allvalue-boxes span {
+        width: auto;
+    }
+
+    .avanzata-main .collection-types-main .collections-grid-main {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        row-gap: 20px;
+    }
+
+    .avanzata-main .collection-types-main {
+        margin-bottom: 50px;
+    }
+
+    .avanzata-main .filter-main .subtitle-flex .allvalue-boxes {
+        flex-basis: 50%;
+    }
+
+    .avanzata-main .filter-main .subtitle-flex .subtitle {
+        flex-basis: 50%;
+    }
+
+    /* avanzata page ends here  */
+
+    /* contatti page start form here  */
+
+    .contatti-banner-main {
+        padding: 25px 0;
+    }
+
+    .contatti-banner-main h2 {
+        font-size: 30px;
+        line-height: normal;
+        margin-bottom: 25px;
+    }
+
+    .contatti-banner-main h2::before {
+        width: 85%;
+        bottom: -9px;
+    }
+
+    .contatti-banner-main p {
+        font-size: 15px;
+    }
+
+    .contatti-from-main {
+        padding: 50px 0;
+    }
+
+    .contatti-from-main label {
+
+        font-size: 16px;
+
+        margin-bottom: 15px;
+
+    }
+
+    .contatti-from-main input[type="text"] {
+
+        margin-bottom: 20px;
+
+    }
+
+    .contatti-from-main input[type="email"] {
+        margin-bottom: 20px;
+
+    }
+
+    .contatti-from-main .scrivo {
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+
+    .contatti-from-main .form-check label {
+        font-size: 16px;
+        line-height: 18px;
+    }
+
+    .contatti-from-main .newsletter-box {
+        padding: 30px 20px;
+        margin-bottom: 30px;
+    }
+
+    .contatti-from-main .newsletter-box p {
+        font-size: 16px;
+        margin-bottom: 25px;
+    }
+
+    .contatti-from-main .newsletter-box .form-check label {
+        font-size: 16px;
+        line-height: 18px;
+    }
+
+    .contatti-from-main textarea {
+
+        margin-bottom: 35px;
+
+        font-size: 16px;
+        min-height: 125px;
+    }
+
+    .contatti-from-main .privecy-box h6 {
+
+        font-size: 18px;
+
+        margin-bottom: 18px;
+    }
+
+    .contatti-from-main .privecy-box p {
+        font-size: 15px;
+    }
+
+
+    .contatti-from-main .contatti-submit button {
+
+        padding-top: 15px;
+        padding-bottom: 15px;
+        font-size: 16px;
+    }
+
+    .contatti-address-main {
+        padding: 50px 0;
+    }
+
+
+    .contatti-address-main .titlebox h2 {
+        font-size: 30px;
+        line-height: normal;
+        margin-bottom: 0px;
+    }
+
+    .contatti-address-main .titlebox h2::before {
+        width: 85%;
+        bottom: -9px;
+    }
+
+    .contatti-address-main .titlebox {
+        margin-bottom: 45px;
+    }
+
+    .contatti-address-main .icon {
+        margin-bottom: 20px;
+        font-size: 25px;
+    }
+
+    .contatti-address-main .single-addresslink a {
+        font-size: 15px;
+    }
+
+    .contatti-address-main .single-addresslink {
+        margin-bottom: 20px;
+    }
+
+    .contatti-address-main .map-iframe {
+        padding: 20px 0 0 0;
+    }
+
+    .contatti-address-main .map-iframe iframe {
+        width: 100%;
+        height: 375px;
+    }
+
+    /* contatti page end here  */
+
+    /* news page start from here  */
+    .news-banner-main {
+        margin-bottom: 0;
+    }
+
+    .news-banner-main h2 {
+        margin-bottom: 9px;
+    }
+
+    .all-newslist-main {
+        padding: 50px 0;
+    }
+
+    .all-newslist-main .news-links {
+        margin-bottom: 50px;
+    }
+
+    .all-newslist-main .news-links ul li a {
+
+        font-size: 16px;
+
+    }
+
+    .all-newslist-main .card .card-body .news-short-box h4 {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+
+    .all-newslist-main .card .card-body .news-short-box h6 {
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+
+    .all-newslist-main .card .card-body .news-short-box p {
+        font-size: 14px;
+    }
+
+    .all-newslist-main .custom-col {
+        margin-bottom: 30px;
+    }
+
+    /* news page end here  */
+    /* news details page start from here  */
+
+    .newsdetails-main {
+        padding: 50px 0;
+    }
+
+    .newsdetails-main .card .card-body h4 {
+
+        margin-bottom: 15px;
+        padding-bottom: 15px;
+    }
+
+    .newsdetails-main .card .card-body h6 {
+
+        margin-bottom: 15px;
+    }
+
+    .newsdetails-main .card .card-body p {
+        font-size: 16px;
+        margin-bottom: 15px;
+    }
+
+    /* news details page end here  */
+}
+
+/* min 1366px to max 1440px end here  */
+
+@media(min-width:1300px) and (max-width:1440px) {
+    main {
+        margin-top: 105px;
+    }
+}
+
+@media (min-width: 1300px) and (max-width: 1365px) {
+    .home-slider-main .swiper-slide .slide-bg {
+        min-height: 558px;
+        max-height: 724px;
+
+    }
+
+
+}
+
+/* min 1300px to max 1365px end here  */
+@media(min-width:1300px) {
+    .bars.sidebar-toggler-btn {
+        display: none;
+    }
+
+    header .main-header.sticky {
+
+
+        padding-top: 35px !important;
+    }
+
+
+
+}
+
+@media(min-width:1281px) and (max-width:1365px) {
+
+    /* avanzata page start from here  */
+    .breadcrumb-main {
+        padding: 15px 0 15px 0;
+    }
+
+    .breadcrumb-main nav ol {
+
+        align-items: center;
+    }
+
+    .breadcrumb-main nav ol li a {
+
+        font-size: 13px;
+
+    }
+
+    .breadcrumb-main nav ol li.active {
+        font-size: 13px;
+    }
+
+    header .main-header.bg-white {
+        padding-top: 40px;
+
+    }
+
+    header .main-header ul {
+
+        gap: 12px;
+    }
+
+    header .main-header .logo-box img {
+        max-width: 120px;
+    }
+
+    header .main-header ul li a {
+        font-size: 14px;
+
+    }
+
+    header .main-header.sticky .logo-box img {
+        max-width: 120px;
+    }
+
+    .avanzata-banner-main {
+        padding: 25px 0;
+    }
+
+    .avanzata-banner-main h2 {
+        font-size: 30px;
+        line-height: normal;
+        margin-bottom: 20px;
+
+    }
+
+    .avanzata-banner-main h2::before {
+
+        bottom: -9px;
+    }
+
+    .avanzata-main .filter-main {
+        margin-bottom: 50px;
+    }
+
+    .avanzata-main .filter-main .filter-title h4 {
+        font-size: 18px;
+    }
+
+    .avanzata-main .filter-main .accordion-button {
+        font-size: 11px;
+    }
+
+    .avanzata-main .filter-main .accordion-item {
+        margin-bottom: 25px;
+
+    }
+
+    .avanzata-main .filter-main .price-range-slider {
+
+        max-width: 100%;
+    }
+
+    .avanzata-main .filter-main .subtitle-flex {
+        align-items: center;
+        margin-bottom: 10px;
+    }
+
+    .avanzata-main .filter-main .subtitle-flex .allvalue-boxes span {
+        width: auto;
+    }
+
+    .avanzata-main .collection-types-main .collections-grid-main {
+        grid-template-columns: 1fr 1fr 1fr;
+        row-gap: 20px;
+    }
+
+    .avanzata-main .collection-types-main {
+        margin-bottom: 50px;
+    }
+
+    .avanzata-main .filter-main .subtitle-flex .allvalue-boxes {
+        flex-basis: 50%;
+    }
+
+    .avanzata-main .filter-main .subtitle-flex .subtitle {
+        flex-basis: 50%;
+    }
+
+    /* avanzata page ends here  */
+    /* contatti page start form here  */
+
+    .contatti-banner-main {
+        padding: 25px 0;
+    }
+
+    .contatti-banner-main h2 {
+        font-size: 30px;
+        line-height: normal;
+        margin-bottom: 25px;
+    }
+
+    .contatti-banner-main h2::before {
+        width: 85%;
+        bottom: -9px;
+    }
+
+    .contatti-banner-main p {
+        font-size: 15px;
+    }
+
+    .contatti-from-main {
+        padding: 50px 0;
+    }
+
+    .contatti-from-main label {
+
+        font-size: 16px;
+
+        margin-bottom: 15px;
+
+    }
+
+    .contatti-from-main input[type="text"] {
+
+        margin-bottom: 20px;
+
+    }
+
+    .contatti-from-main input[type="email"] {
+        margin-bottom: 20px;
+
+    }
+
+    .contatti-from-main .scrivo {
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+
+    .contatti-from-main .form-check label {
+        font-size: 16px;
+        line-height: 18px;
+    }
+
+    .contatti-from-main .newsletter-box {
+        padding: 30px 20px;
+        margin-bottom: 30px;
+    }
+
+    .contatti-from-main .newsletter-box p {
+        font-size: 16px;
+        margin-bottom: 25px;
+    }
+
+    .contatti-from-main .newsletter-box .form-check label {
+        font-size: 16px;
+        line-height: 18px;
+    }
+
+    .contatti-from-main textarea {
+
+        margin-bottom: 35px;
+
+        font-size: 16px;
+        min-height: 125px;
+    }
+
+    .contatti-from-main .privecy-box h6 {
+
+        font-size: 18px;
+
+        margin-bottom: 18px;
+    }
+
+    .contatti-from-main .privecy-box p {
+        font-size: 15px;
+    }
+
+
+    .contatti-from-main .contatti-submit button {
+
+        padding-top: 15px;
+        padding-bottom: 15px;
+        font-size: 16px;
+    }
+
+    .contatti-address-main {
+        padding: 50px 0;
+    }
+
+
+    .contatti-address-main .titlebox h2 {
+        font-size: 30px;
+        line-height: normal;
+        margin-bottom: 0px;
+    }
+
+    .contatti-address-main .titlebox h2::before {
+        width: 85%;
+        bottom: -9px;
+    }
+
+    .contatti-address-main .titlebox {
+        margin-bottom: 45px;
+    }
+
+    .contatti-address-main .icon {
+        margin-bottom: 20px;
+        font-size: 25px;
+    }
+
+    .contatti-address-main .single-addresslink a {
+        font-size: 15px;
+    }
+
+    .contatti-address-main .single-addresslink {
+        margin-bottom: 20px;
+    }
+
+    .contatti-address-main .map-iframe {
+        padding: 20px 0 0 0;
+    }
+
+    .contatti-address-main .map-iframe iframe {
+        width: 100%;
+        height: 375px;
+    }
+
+    /* contatti page end here  */
+    /* news page start from here  */
+    .news-banner-main {
+        margin-bottom: 0;
+    }
+
+    .news-banner-main h2 {
+        margin-bottom: 9px;
+    }
+
+    .all-newslist-main {
+        padding: 50px 0;
+    }
+
+    .all-newslist-main .news-links {
+        margin-bottom: 50px;
+    }
+
+    .all-newslist-main .news-links ul li a {
+
+        font-size: 16px;
+
+    }
+
+    .all-newslist-main .card .card-body .news-short-box h4 {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+
+    .all-newslist-main .card .card-body .news-short-box h6 {
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+
+    .all-newslist-main .card .card-body .news-short-box p {
+        font-size: 14px;
+    }
+
+    .all-newslist-main .custom-col {
+        margin-bottom: 30px;
+    }
+
+    /* news page end here  */
+    /* news details page start from here  */
+
+    .newsdetails-main {
+        padding: 50px 0;
+    }
+
+    .newsdetails-main .card .card-body h4 {
+
+        margin-bottom: 15px;
+        padding-bottom: 15px;
+    }
+
+    .newsdetails-main .card .card-body h6 {
+
+        margin-bottom: 15px;
+    }
+
+    .newsdetails-main .card .card-body p {
+        font-size: 16px;
+        margin-bottom: 15px;
+    }
+
+    /* news details page end here  */
+}
+
+/* min 1281px to max 1365px end here  */
+
+@media (min-width: 1201px) and (max-width: 1299px) {
+    .home-slider-main .swiper-slide .slide-bg {
+        min-height: 558px;
+        max-height: 724px;
+
+    }
+
+    .swiper-button-prev:after,
+    .swiper-button-next:after {
+        font-size: 25px;
+    }
+
+
+    footer .footer-last-flex .single-items {
+        flex-basis: 100%;
+    }
+
+    footer .footersocial-flex {
+        flex-wrap: wrap;
+    }
+
+    footer .footersocial-flex .red-apple {
+        width: 100%;
+    }
+
+    footer .footersocial-flex .social {
+        width: 100%;
+    }
+}
+
+/* min 1201px to max 1299px end here  */
+
+@media (max-width: 1299px) {
+
+
+    header .main-header {
+        padding: 20px 0;
+        padding-top: 35px;
+    }
+
+    header .main-header.bg-white {
+        padding: 20px 0;
+        padding-top: 35px;
+    }
+
+    header .main-header-items {
+        display: none;
+    }
+
+    header .main-header .logo-box img {
+        max-width: 220px;
+    }
+
+    header .main-header.sticky {
+        padding: 20px 0;
+    }
+
+    header .main-header.bg-white.sticky {
+        top: 0;
+    }
+
+    header .main-header.sticky .logo-box img {
+        max-width: 220px;
+    }
+
+    /* header .main-header.sticky {
+        animation-name: fadeInDown;
+        -webkit-animation-duration: 1s;
+        animation-duration: 1s;
+        -webkit-animation-fill-mode: both;
+        animation-fill-mode: both;
+    } */
+
+    main {
+        margin-top: 115px;
+    }
+}
+
+/*max 1299px end here   */
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+    .home-slider-main .swiper-slide .slide-bg {
+        min-height: 558px;
+        max-height: 724px;
+
+    }
+
+    .swiper-button-prev:after,
+    .swiper-button-next:after {
+        font-size: 25px;
+    }
+
+    footer .footer-last-flex .single-items {
+        flex-basis: 100%;
+    }
+
+    footer .footersocial-flex {
+        flex-wrap: wrap;
+    }
+
+
+    footer .single-flex-box .footer-links ul li a {
+
+        font-size: 12px;
+
+        line-height: 100%;
+
+    }
+
+    footer .footer-social-title {
+
+        font-size: 14px;
+        margin-bottom: 20px;
+
+    }
+
+    footer .footer-links-social ul li a {
+
+        font-size: 12px;
+
+    }
+
+    footer .footer-links-social .newsletter h5 {
+        margin-bottom: 20px;
+        font-size: 12px;
+
+    }
+
+    footer .footer-links-social .newsletter input[type="email"] {
+        flex-basis: 100%;
+        width: 100%;
+    }
+
+
+    /* avanzata page start from here  */
+    .breadcrumb-main {
+        padding: 15px 0 15px 0;
+    }
+
+    .breadcrumb-main nav ol {
+
+        align-items: center;
+    }
+
+    .breadcrumb-main nav ol li a {
+
+        font-size: 13px;
+
+    }
+
+    .breadcrumb-main nav ol li.active {
+        font-size: 13px;
+    }
+
+    .avanzata-banner-main {
+        padding: 25px 0;
+    }
+
+    .avanzata-banner-main h2 {
+        font-size: 30px;
+        line-height: normal;
+        margin-bottom: 20px;
+
+    }
+
+    .avanzata-banner-main h2::before {
+
+        bottom: -9px;
+    }
+
+    .avanzata-main .filter-main {
+        margin-bottom: 50px;
+    }
+
+    .avanzata-main .filter-main .filter-title h4 {
+        font-size: 18px;
+    }
+
+    .avanzata-main .filter-main .accordion-button {
+        font-size: 11px;
+    }
+
+    .avanzata-main .filter-main .accordion-item {
+        margin-bottom: 25px;
+
+    }
+
+    .avanzata-main .filter-main .price-range-slider {
+
+        max-width: 100%;
+    }
+
+    .avanzata-main .filter-main .subtitle-flex {
+        align-items: center;
+        margin-bottom: 10px;
+    }
+
+    .avanzata-main .filter-main .subtitle-flex .allvalue-boxes span {
+        width: auto;
+    }
+
+    .avanzata-main .collection-types-main .collections-grid-main {
+        grid-template-columns: 1fr 1fr 1fr;
+        row-gap: 20px;
+    }
+
+    .avanzata-main .collection-types-main {
+        margin-bottom: 50px;
+    }
+
+    .avanzata-main .filter-main .subtitle-flex .allvalue-boxes {
+        flex-basis: 50%;
+    }
+
+    .avanzata-main .filter-main .subtitle-flex .subtitle {
+        flex-basis: 50%;
+    }
+
+    /* avanzata page ends here  */
+
+    /* contatti page start form here  */
+
+    .contatti-banner-main {
+        padding: 25px 0;
+    }
+
+    .contatti-banner-main h2 {
+        font-size: 30px;
+        line-height: normal;
+        margin-bottom: 25px;
+    }
+
+    .contatti-banner-main h2::before {
+        width: 85%;
+        bottom: -9px;
+    }
+
+    .contatti-banner-main p {
+        font-size: 15px;
+    }
+
+    .contatti-from-main {
+        padding: 50px 0;
+    }
+
+    .contatti-from-main label {
+
+        font-size: 16px;
+
+        margin-bottom: 15px;
+
+    }
+
+    .contatti-from-main input[type="text"] {
+
+        margin-bottom: 20px;
+
+    }
+
+    .contatti-from-main input[type="email"] {
+        margin-bottom: 20px;
+
+    }
+
+    .contatti-from-main .scrivo {
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+
+    .contatti-from-main .form-check label {
+        font-size: 16px;
+        line-height: 18px;
+    }
+
+    .contatti-from-main .newsletter-box {
+        padding: 30px 20px;
+        margin-bottom: 30px;
+    }
+
+    .contatti-from-main .newsletter-box p {
+        font-size: 16px;
+        margin-bottom: 25px;
+    }
+
+    .contatti-from-main .newsletter-box .form-check label {
+        font-size: 16px;
+        line-height: 18px;
+    }
+
+    .contatti-from-main textarea {
+
+        margin-bottom: 35px;
+
+        font-size: 16px;
+        min-height: 125px;
+    }
+
+    .contatti-from-main .privecy-box h6 {
+
+        font-size: 18px;
+
+        margin-bottom: 18px;
+    }
+
+    .contatti-from-main .privecy-box p {
+        font-size: 15px;
+    }
+
+
+    .contatti-from-main .contatti-submit button {
+
+        padding-top: 15px;
+        padding-bottom: 15px;
+        font-size: 16px;
+    }
+
+    .contatti-address-main {
+        padding: 50px 0;
+    }
+
+
+    .contatti-address-main .titlebox h2 {
+        font-size: 30px;
+        line-height: normal;
+        margin-bottom: 0px;
+    }
+
+    .contatti-address-main .titlebox h2::before {
+        width: 85%;
+        bottom: -9px;
+    }
+
+    .contatti-address-main .titlebox {
+        margin-bottom: 45px;
+    }
+
+    .contatti-address-main .icon {
+        margin-bottom: 20px;
+        font-size: 25px;
+    }
+
+    .contatti-address-main .single-addresslink a {
+        font-size: 15px;
+    }
+
+    .contatti-address-main .single-addresslink {
+        margin-bottom: 20px;
+    }
+
+    .contatti-address-main .map-iframe {
+        padding: 20px 0 0 0;
+    }
+
+    .contatti-address-main .map-iframe iframe {
+        width: 100%;
+        height: 375px;
+    }
+
+    /* contatti page end here  */
+
+    /* news page start from here  */
+    .news-banner-main {
+        margin-bottom: 0;
+    }
+
+    .news-banner-main h2 {
+        margin-bottom: 9px;
+    }
+
+    .all-newslist-main {
+        padding: 50px 0;
+    }
+
+    .all-newslist-main .news-links {
+        margin-bottom: 50px;
+    }
+
+    .all-newslist-main .news-links ul li a {
+
+        font-size: 16px;
+
+    }
+
+    .all-newslist-main .card .card-body .news-short-box h4 {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+
+    .all-newslist-main .card .card-body .news-short-box h6 {
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+
+    .all-newslist-main .card .card-body .news-short-box p {
+        font-size: 14px;
+    }
+
+    .all-newslist-main .custom-col {
+        margin-bottom: 30px;
+    }
+
+    /* news page end here  */
+
+    /* news details page start from here  */
+
+    .newsdetails-main {
+        padding: 50px 0;
+    }
+
+    .newsdetails-main .card .card-body h4 {
+
+        margin-bottom: 15px;
+        padding-bottom: 15px;
+    }
+
+    .newsdetails-main .card .card-body h6 {
+
+        margin-bottom: 15px;
+    }
+
+    .newsdetails-main .card .card-body p {
+        font-size: 16px;
+        margin-bottom: 15px;
+    }
+
+    /* news details page end here  */
+}
+
+/* min 1025px to max 1280px end here  */
+
+
+@media (min-width: 992px) and (max-width: 1024px) {
+    .home-slider-main .swiper-slide .slide-bg {
+        min-height: 425px;
+        max-height: 555px;
+
+    }
+
+    .swiper-button-prev:after,
+    .swiper-button-next:after {
+        font-size: 25px;
+    }
+
+
+    footer .footer-last-flex .single-items {
+        flex-basis: 100%;
+    }
+
+    footer .footersocial-flex {
+        flex-wrap: wrap;
+    }
+
+
+
+
+    footer .single-flex-box .footer-links ul li a {
+
+        font-size: 12px;
+
+        line-height: 100%;
+
+    }
+
+    footer .footer-social-title {
+
+        font-size: 14px;
+        margin-bottom: 20px;
+
+    }
+
+    footer .footer-links-social ul li a {
+
+        font-size: 12px;
+
+    }
+
+    footer .footer-links-social .newsletter h5 {
+        margin-bottom: 20px;
+        font-size: 12px;
+
+    }
+
+    footer .footer-links-social .newsletter input[type="email"] {
+        flex-basis: 100%;
+        width: 100%;
+    }
+
+
+    /* avanzata page start from here  */
+    .breadcrumb-main {
+        padding: 15px 0 15px 0;
+    }
+
+    .breadcrumb-main nav ol {
+
+        align-items: center;
+    }
+
+    .breadcrumb-main nav ol li a {
+
+        font-size: 13px;
+
+    }
+
+    .breadcrumb-main nav ol li.active {
+        font-size: 13px;
+    }
+
+    .avanzata-banner-main {
+        padding: 25px 0;
+    }
+
+    .avanzata-banner-main h2 {
+        font-size: 30px;
+        line-height: normal;
+        margin-bottom: 20px;
+
+    }
+
+    .avanzata-banner-main h2::before {
+
+        bottom: -9px;
+    }
+
+    .avanzata-main .filter-main {
+        margin-bottom: 50px;
+    }
+
+    .avanzata-main .filter-main .filter-title h4 {
+        font-size: 18px;
+    }
+
+    .avanzata-main .filter-main .accordion-button {
+        font-size: 11px;
+    }
+
+    .avanzata-main .filter-main .accordion-item {
+        margin-bottom: 25px;
+
+    }
+
+    .price-range-slider {
+
+        max-width: 100%;
+    }
+
+    .avanzata-main .collection-types-main .collections-grid-main {
+        grid-template-columns: 1fr 1fr 1fr;
+        row-gap: 20px;
+    }
+
+    .avanzata-main .collection-types-main {
+        margin-bottom: 50px;
+    }
+
+    .avanzata-main .filter-main .subtitle-flex .allvalue-boxes {
+        flex-basis: 100%;
+    }
+
+    .avanzata-main .filter-main .subtitle-flex .subtitle {
+        flex-basis: 100%;
+    }
+
+    /* avanzata page ends here  */
+    /* contatti page start form here  */
+
+    .contatti-banner-main {
+        padding: 25px 0;
+    }
+
+    .contatti-banner-main h2 {
+        font-size: 30px;
+        line-height: normal;
+        margin-bottom: 25px;
+    }
+
+    .contatti-banner-main h2::before {
+        width: 85%;
+        bottom: -9px;
+    }
+
+    .contatti-banner-main p {
+        font-size: 15px;
+    }
+
+    .contatti-from-main {
+        padding: 50px 0;
+    }
+
+    .contatti-from-main label {
+
+        font-size: 16px;
+
+        margin-bottom: 15px;
+
+    }
+
+    .contatti-from-main input[type="text"] {
+
+        margin-bottom: 20px;
+
+    }
+
+    .contatti-from-main input[type="email"] {
+        margin-bottom: 20px;
+
+    }
+
+    .contatti-from-main .scrivo {
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+
+    .contatti-from-main .form-check label {
+        font-size: 16px;
+        line-height: 18px;
+    }
+
+    .contatti-from-main .newsletter-box {
+        padding: 30px 20px;
+        margin-bottom: 30px;
+    }
+
+    .contatti-from-main .newsletter-box p {
+        font-size: 16px;
+        margin-bottom: 25px;
+    }
+
+    .contatti-from-main .newsletter-box .form-check label {
+        font-size: 16px;
+        line-height: 18px;
+    }
+
+    .contatti-from-main textarea {
+
+        margin-bottom: 35px;
+
+        font-size: 16px;
+        min-height: 125px;
+    }
+
+    .contatti-from-main .privecy-box h6 {
+
+        font-size: 18px;
+
+        margin-bottom: 18px;
+    }
+
+    .contatti-from-main .privecy-box p {
+        font-size: 15px;
+    }
+
+
+    .contatti-from-main .contatti-submit button {
+
+        padding-top: 15px;
+        padding-bottom: 15px;
+        font-size: 16px;
+    }
+
+    .contatti-address-main {
+        padding: 50px 0;
+    }
+
+
+    .contatti-address-main .titlebox h2 {
+        font-size: 30px;
+        line-height: normal;
+        margin-bottom: 0px;
+    }
+
+    .contatti-address-main .titlebox h2::before {
+        width: 85%;
+        bottom: -9px;
+    }
+
+    .contatti-address-main .titlebox {
+        margin-bottom: 45px;
+    }
+
+    .contatti-address-main .icon {
+        margin-bottom: 20px;
+        font-size: 25px;
+    }
+
+    .contatti-address-main .single-addresslink a {
+        font-size: 15px;
+    }
+
+    .contatti-address-main .single-addresslink {
+        margin-bottom: 20px;
+    }
+
+    .contatti-address-main .map-iframe {
+        padding: 20px 0 0 0;
+    }
+
+    .contatti-address-main .map-iframe iframe {
+        width: 100%;
+        height: 375px;
+    }
+
+    /* contatti page end here  */
+
+    /* news page start from here  */
+    .news-banner-main {
+        margin-bottom: 0;
+    }
+
+    .news-banner-main h2 {
+        margin-bottom: 9px;
+    }
+
+    .all-newslist-main {
+        padding: 50px 0;
+    }
+
+    .all-newslist-main .news-links {
+        margin-bottom: 50px;
+    }
+
+    .all-newslist-main .news-links ul li a {
+
+        font-size: 16px;
+
+    }
+
+    .all-newslist-main .card .card-body .news-short-box h4 {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+
+    .all-newslist-main .card .card-body .news-short-box h6 {
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+
+    .all-newslist-main .card .card-body .news-short-box p {
+        font-size: 14px;
+    }
+
+    .all-newslist-main .custom-col {
+        margin-bottom: 30px;
+    }
+
+    /* news page end here  */
+
+
+    /* news details page start from here  */
+
+    .newsdetails-main {
+        padding: 50px 0;
+    }
+
+    .newsdetails-main .card .card-body h4 {
+        font-size: 20px;
+        margin-bottom: 15px;
+        padding-bottom: 15px;
+    }
+
+    .newsdetails-main .card .card-body h6 {
+        font-size: 15px;
+        margin-bottom: 15px;
+    }
+
+    .newsdetails-main .card .card-body p {
+        font-size: 15px;
+        margin-bottom: 15px;
+    }
+
+    /* news details page end here  */
+}
+
+/* min 992px to max 1024px end here  */
+
+@media (max-width: 1024px) {}
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .home-slider-main .swiper-slide .slide-bg {
+        min-height: 425px;
+        max-height: 555px;
+
+    }
+
+    .swiper-button-prev:after,
+    .swiper-button-next:after {
+        font-size: 25px;
+    }
+
+    footer {
+
+        padding: 85px 0 85px 0;
+
+    }
+
+    footer .footer-last-flex .single-items {
+        flex-basis: 100%;
+    }
+
+    footer .footersocial-flex {
+        flex-wrap: wrap;
+    }
+
+    footer .single-flex-box .footer-links ul li a {
+
+        font-size: 12px;
+
+        line-height: 100%;
+
+    }
+
+    footer .footer-social-title {
+
+        font-size: 14px;
+        margin-bottom: 20px;
+
+    }
+
+    footer .footer-links-social ul li a {
+
+        font-size: 12px;
+
+    }
+
+    footer .footer-links-social .newsletter h5 {
+        margin-bottom: 20px;
+        font-size: 12px;
+
+    }
+
+    footer .footer-links-social .newsletter input[type="email"] {
+        flex-basis: 100%;
+        width: 100%;
+    }
+
+    /* avanzata page start from here  */
+    .breadcrumb-main {
+        padding: 15px 0 15px 0;
+    }
+
+    .breadcrumb-main nav ol {
+
+        align-items: center;
+    }
+
+    .breadcrumb-main nav ol li a {
+
+        font-size: 13px;
+
+    }
+
+    .breadcrumb-main nav ol li.active {
+        font-size: 13px;
+    }
+
+    .avanzata-banner-main {
+        padding: 25px 0;
+    }
+
+    .avanzata-banner-main h2 {
+        font-size: 30px;
+        line-height: normal;
+        margin-bottom: 20px;
+
+    }
+
+    .avanzata-banner-main h2::before {
+        width: 85%;
+        bottom: -9px;
+    }
+
+    .avanzata-main .filter-main {
+        margin-bottom: 50px;
+    }
+
+    .avanzata-main .filter-main .filter-title h4 {
+        font-size: 18px;
+    }
+
+    .avanzata-main .filter-main .accordion-button {
+        font-size: 16px;
+    }
+
+    .avanzata-main .filter-main .accordion-item {
+        margin-bottom: 25px;
+
+    }
+
+    .price-range-slider {
+
+        max-width: 100%;
+    }
+
+    .avanzata-main .collection-types-main .collections-grid-main {
+        grid-template-columns: 1fr 1fr;
+        row-gap: 20px;
+    }
+
+    .avanzata-main .collection-types-main {
+        margin-bottom: 50px;
+    }
+
+    .avanzata-main .filter-main .subtitle-flex .allvalue-boxes {
+        flex-basis: 50%;
+    }
+
+    .avanzata-main .filter-main .subtitle-flex .subtitle {
+        flex-basis: 50%;
+    }
+
+    /* avanzata page ends here  */
+    /* contatti page start form here  */
+
+    .contatti-banner-main {
+        padding: 25px 0;
+    }
+
+    .contatti-banner-main h2 {
+        font-size: 30px;
+        line-height: normal;
+        margin-bottom: 25px;
+    }
+
+    .contatti-banner-main h2::before {
+        width: 85%;
+        bottom: -9px;
+    }
+
+    .contatti-banner-main p {
+        font-size: 15px;
+    }
+
+    .contatti-from-main {
+        padding: 50px 0;
+    }
+
+    .contatti-from-main label {
+
+        font-size: 16px;
+
+        margin-bottom: 15px;
+
+    }
+
+    .contatti-from-main input[type="text"] {
+
+        margin-bottom: 20px;
+
+    }
+
+    .contatti-from-main input[type="email"] {
+        margin-bottom: 20px;
+
+    }
+
+    .contatti-from-main .scrivo {
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+
+    .contatti-from-main .form-check label {
+        font-size: 16px;
+        line-height: 18px;
+    }
+
+    .contatti-from-main .newsletter-box {
+        padding: 30px 20px;
+        margin-bottom: 30px;
+    }
+
+    .contatti-from-main .newsletter-box p {
+        font-size: 16px;
+        margin-bottom: 25px;
+    }
+
+    .contatti-from-main .newsletter-box .form-check label {
+        font-size: 16px;
+        line-height: 18px;
+    }
+
+    .contatti-from-main textarea {
+
+        margin-bottom: 35px;
+
+        font-size: 16px;
+        min-height: 125px;
+    }
+
+    .contatti-from-main .privecy-box h6 {
+
+        font-size: 18px;
+
+        margin-bottom: 18px;
+    }
+
+    .contatti-from-main .privecy-box p {
+        font-size: 15px;
+    }
+
+
+    .contatti-from-main .contatti-submit button {
+
+        padding-top: 15px;
+        padding-bottom: 15px;
+        font-size: 16px;
+    }
+
+    .contatti-address-main {
+        padding: 50px 0;
+    }
+
+
+    .contatti-address-main .titlebox h2 {
+        font-size: 30px;
+        line-height: normal;
+        margin-bottom: 0px;
+    }
+
+    .contatti-address-main .titlebox h2::before {
+        width: 85%;
+        bottom: -9px;
+    }
+
+    .contatti-address-main .titlebox {
+        margin-bottom: 45px;
+    }
+
+    .contatti-address-main .icon {
+        margin-bottom: 20px;
+        font-size: 25px;
+    }
+
+    .contatti-address-main .single-addresslink a {
+        font-size: 15px;
+    }
+
+    .contatti-address-main .single-addresslink {
+        margin-bottom: 20px;
+    }
+
+    .contatti-address-main .map-iframe {
+        padding: 20px 0 0 0;
+    }
+
+    .contatti-address-main .map-iframe iframe {
+        width: 100%;
+        height: 375px;
+    }
+
+    /* contatti page end here  */
+    /* news page start from here  */
+    .news-banner-main {
+        margin-bottom: 0;
+    }
+
+    .news-banner-main h2 {
+        margin-bottom: 9px;
+    }
+
+    .all-newslist-main {
+        padding: 50px 0;
+    }
+
+    .all-newslist-main .news-links {
+        margin-bottom: 50px;
+    }
+
+    .all-newslist-main .news-links ul li a {
+
+        font-size: 16px;
+
+    }
+
+    .all-newslist-main .card .card-body .news-short-box h4 {
+
+        font-size: 20px;
+
+        margin-bottom: 15px;
+    }
+
+    .all-newslist-main .card .card-body .news-short-box h6 {
+        font-size: 17px;
+        margin-bottom: 15px;
+    }
+
+    .all-newslist-main .custom-col {
+        margin-bottom: 30px;
+    }
+
+    /* news page end here  */
+
+    /* news details page start from here  */
+
+    .newsdetails-main {
+        padding: 50px 0;
+    }
+
+    .newsdetails-main .card .card-body {
+        padding-top: 20px;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .newsdetails-main .card .card-body h4 {
+        font-size: 20px;
+        margin-bottom: 15px;
+        padding-bottom: 15px;
+    }
+
+    .newsdetails-main .card .card-body h6 {
+        font-size: 15px;
+        margin-bottom: 15px;
+    }
+
+    .newsdetails-main .card .card-body p {
+        font-size: 15px;
+        margin-bottom: 15px;
+    }
+
+    /* news details page end here  */
+}
+
+/* min 768px to max 991px end here  */
+
+
+
+@media (min-width: 576px) and (max-width: 767px) {
+    .home-slider-main .swiper-slide .slide-bg {
+        min-height: 325px;
+        max-height: 425px;
+
+    }
+
+    .swiper-button-prev:after,
+    .swiper-button-next:after {
+        font-size: 20px;
+    }
+
+    .about-main {
+        padding: 50px 0;
+    }
+
+
+
+    footer {
+        padding: 50px 13px;
+    }
+
+    footer .footer-logo {
+        margin-bottom: 30px;
+    }
+
+    footer .footer-last-flex .single-items {
+        flex-basis: 49%;
+    }
+
+    footer .px-0 {
+        padding-left: calc(var(--bs-gutter-x) * .5) !important;
+        padding-right: calc(var(--bs-gutter-x) * .5) !important;
+    }
+
+    footer .footersocial-flex {
+        flex-wrap: wrap;
+    }
+
+
+    footer .single-flex-box {
+        margin-bottom: 20px;
+    }
+
+    footer .single-flex-box .footer-links ul {
+        margin-bottom: 10px;
+    }
+
+    footer .single-flex-box .footer-links ul {
+        margin-bottom: 20px;
+    }
+
+    footer .footer-links-social ul {
+        margin-bottom: 40px;
+    }
+
+    /* avanzata page start from here  */
+    .breadcrumb-main {
+        padding: 15px 0 15px 0;
+    }
+
+    .breadcrumb-main nav ol {
+
+        align-items: center;
+    }
+
+    .breadcrumb-main nav ol li a {
+
+        font-size: 13px;
+
+    }
+
+    .breadcrumb-main nav ol li.active {
+        font-size: 13px;
+    }
+
+    .avanzata-banner-main {
+        padding: 25px 0;
+    }
+
+    .avanzata-banner-main h2 {
+        font-size: 30px;
+        line-height: normal;
+        margin-bottom: 20px;
+
+    }
+
+    .avanzata-banner-main h2::before {
+        width: 85%;
+        bottom: -9px;
+    }
+
+    .avanzata-main .filter-main {
+        margin-bottom: 50px;
+    }
+
+    .avanzata-main .filter-main .filter-title h4 {
+        font-size: 18px;
+    }
+
+    .avanzata-main .filter-main .accordion-button {
+        font-size: 16px;
+    }
+
+    .avanzata-main .filter-main .accordion-item {
+        margin-bottom: 25px;
+
+    }
+
+    .price-range-slider {
+
+        max-width: 100%;
+    }
+
+    .avanzata-main .collection-types-main .collections-grid-main {
+        grid-template-columns: 1fr;
+        row-gap: 20px;
+    }
+
+    .avanzata-main .collection-types-main {
+        margin-bottom: 50px;
+    }
+
+    /* avanzata page ends here  */
+    /* contatti page start form here  */
+
+    .contatti-banner-main {
+        padding: 25px 0;
+    }
+
+    .contatti-banner-main h2 {
+        font-size: 30px;
+        line-height: normal;
+        margin-bottom: 25px;
+    }
+
+    .contatti-banner-main h2::before {
+        width: 85%;
+        bottom: -9px;
+    }
+
+    .contatti-banner-main p {
+        font-size: 15px;
+    }
+
+    .contatti-from-main {
+        padding: 50px 0;
+    }
+
+    .contatti-from-main label {
+
+        font-size: 16px;
+
+        margin-bottom: 15px;
+
+    }
+
+    .contatti-from-main input[type="text"] {
+
+        margin-bottom: 20px;
+
+    }
+
+    .contatti-from-main input[type="email"] {
+        margin-bottom: 20px;
+
+    }
+
+    .contatti-from-main .scrivo {
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+
+    .contatti-from-main .form-check label {
+        font-size: 16px;
+        line-height: 18px;
+    }
+
+    .contatti-from-main .newsletter-box {
+        padding: 30px 20px;
+        margin-bottom: 30px;
+    }
+
+    .contatti-from-main .newsletter-box p {
+        font-size: 16px;
+        margin-bottom: 25px;
+    }
+
+    .contatti-from-main .newsletter-box .form-check label {
+        font-size: 16px;
+        line-height: 18px;
+    }
+
+    .contatti-from-main textarea {
+
+        margin-bottom: 35px;
+
+        font-size: 16px;
+        min-height: 125px;
+    }
+
+    .contatti-from-main .privecy-box h6 {
+
+        font-size: 18px;
+
+        margin-bottom: 18px;
+    }
+
+    .contatti-from-main .privecy-box p {
+        font-size: 15px;
+    }
+
+    .contatti-from-main .contatti-submit button {
+        width: 100%;
+        padding: 15px 0;
+        font-size: 16px;
+    }
+
+    .contatti-address-main {
+        padding: 50px 0;
+    }
+
+
+    .contatti-address-main .titlebox h2 {
+        font-size: 30px;
+        line-height: normal;
+        margin-bottom: 0px;
+    }
+
+    .contatti-address-main .titlebox h2::before {
+        width: 85%;
+        bottom: -9px;
+    }
+
+    .contatti-address-main .titlebox {
+        margin-bottom: 45px;
+    }
+
+    .contatti-address-main .icon {
+        margin-bottom: 20px;
+        font-size: 25px;
+    }
+
+    .contatti-address-main .single-addresslink a {
+        font-size: 15px;
+    }
+
+    .contatti-address-main .single-addresslink {
+        margin-bottom: 20px;
+    }
+
+    .contatti-address-main .map-iframe {
+        padding: 20px 0 0 0;
+    }
+
+    .contatti-address-main .map-iframe iframe {
+        width: 100%;
+        height: 375px;
+    }
+
+    /* contatti page end here  */
+
+    /* news page start from here  */
+    .news-banner-main {
+        margin-bottom: 0;
+    }
+
+    .news-banner-main h2 {
+        margin-bottom: 9px;
+    }
+
+    .all-newslist-main {
+        padding: 50px 0;
+    }
+
+    .all-newslist-main .news-links {
+        margin-bottom: 50px;
+    }
+
+    .all-newslist-main .news-links ul li a {
+
+        font-size: 16px;
+
+    }
+
+    .all-newslist-main .card .card-body {
+        padding-top: 20px;
+        padding-left: 0;
+        padding-right: 0;
+        padding-bottom: 0;
+    }
+
+    .all-newslist-main .card .card-body .news-short-box h4 {
+
+        font-size: 20px;
+
+        margin-bottom: 15px;
+    }
+
+    .all-newslist-main .card .card-body .news-short-box h6 {
+        font-size: 17px;
+        margin-bottom: 15px;
+    }
+
+    .all-newslist-main .custom-col {
+        margin-bottom: 30px;
+    }
+
+    /* news page end here  */
+    /* news details page start from here  */
+
+    .newsdetails-main {
+        padding: 50px 0;
+    }
+
+    .newsdetails-main .card .card-body {
+        padding-top: 20px;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .newsdetails-main .card .card-body h4 {
+        font-size: 20px;
+        margin-bottom: 15px;
+        padding-bottom: 15px;
+    }
+
+    .newsdetails-main .card .card-body h6 {
+        font-size: 17px;
+        margin-bottom: 15px;
+    }
+
+    .newsdetails-main .card .card-body p {
+        font-size: 15px;
+        margin-bottom: 15px;
+    }
+
+    /* news details page end here  */
+}
+
+/* min 576px to max 767px end here  */
+
+@media (max-width: 767px) {}
+
+@media (min-width: 576px) {}
+
+@media (min-width: 415px) and (max-width: 575px) {
+    .home-slider-main .swiper-slide .slide-bg {
+        min-height: 200px;
+        max-height: 325px;
+    }
+
+    .swiper-button-prev:after,
+    .swiper-button-next:after {
+        font-size: 20px;
+    }
+
+
+    footer {
+        padding: 50px 13px;
+    }
+
+    footer .footer-logo {
+        margin-bottom: 30px;
+    }
+
+    footer .footer-last-flex .single-items {
+        flex-basis: 100%;
+    }
+
+    footer .px-0 {
+        padding-left: calc(var(--bs-gutter-x) * .5) !important;
+        padding-right: calc(var(--bs-gutter-x) * .5) !important;
+    }
+
+    footer .footersocial-flex {
+        flex-wrap: wrap;
+    }
+
+    footer .footersocial-flex .social {
+        width: 100%;
+    }
+
+    footer .footersocial-flex .red-apple {
+        width: 100%;
+    }
+
+    /* avanzata page start from here  */
+    .breadcrumb-main {
+        padding: 15px 0 15px 0;
+    }
+
+    .breadcrumb-main nav ol {
+
+        align-items: center;
+    }
+
+    .breadcrumb-main nav ol li a {
+
+        font-size: 13px;
+
+    }
+
+    .breadcrumb-main nav ol li.active {
+        font-size: 13px;
+    }
+
+    .avanzata-banner-main {
+        padding: 25px 0;
+    }
+
+    .avanzata-banner-main h2 {
+        font-size: 30px;
+        line-height: normal;
+        margin-bottom: 20px;
+
+    }
+
+    .avanzata-banner-main h2::before {
+        width: 85%;
+        bottom: -9px;
+    }
+
+    .avanzata-main .filter-main {
+        margin-bottom: 50px;
+    }
+
+    .avanzata-main .filter-main .filter-title h4 {
+        font-size: 18px;
+    }
+
+    .avanzata-main .filter-main .accordion-button {
+        font-size: 16px;
+    }
+
+    .avanzata-main .filter-main .accordion-item {
+        margin-bottom: 25px;
+
+    }
+
+    .price-range-slider {
+
+        max-width: 100%;
+    }
+
+    .avanzata-main .collection-types-main .collections-grid-main {
+        grid-template-columns: 1fr;
+        row-gap: 20px;
+    }
+
+    .avanzata-main .collection-types-main {
+        margin-bottom: 50px;
+    }
+
+    /* avanzata page ends here  */
+    /* contatti page start form here  */
+
+    .contatti-banner-main {
+        padding: 25px 0;
+    }
+
+    .contatti-banner-main h2 {
+        font-size: 30px;
+        line-height: normal;
+        margin-bottom: 25px;
+    }
+
+    .contatti-banner-main h2::before {
+        width: 85%;
+        bottom: -9px;
+    }
+
+    .contatti-banner-main p {
+        font-size: 15px;
+    }
+
+    .contatti-from-main {
+        padding: 50px 0;
+    }
+
+    .contatti-from-main label {
+
+        font-size: 16px;
+
+        margin-bottom: 15px;
+
+    }
+
+    .contatti-from-main input[type="text"] {
+
+        margin-bottom: 20px;
+
+    }
+
+    .contatti-from-main input[type="email"] {
+        margin-bottom: 20px;
+
+    }
+
+    .contatti-from-main .scrivo {
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+
+    .contatti-from-main .form-check label {
+        font-size: 16px;
+        line-height: 18px;
+    }
+
+    .contatti-from-main .newsletter-box {
+        padding: 30px 20px;
+        margin-bottom: 30px;
+    }
+
+    .contatti-from-main .newsletter-box p {
+        font-size: 16px;
+        margin-bottom: 25px;
+    }
+
+    .contatti-from-main .newsletter-box .form-check label {
+        font-size: 16px;
+        line-height: 18px;
+    }
+
+    .contatti-from-main textarea {
+
+        margin-bottom: 35px;
+
+        font-size: 16px;
+        min-height: 125px;
+    }
+
+    .contatti-from-main .privecy-box h6 {
+
+        font-size: 18px;
+
+        margin-bottom: 18px;
+    }
+
+    .contatti-from-main .privecy-box p {
+        font-size: 15px;
+    }
+
+    .contatti-address-main {
+        padding: 50px 0;
+    }
+
+
+    .contatti-address-main .titlebox h2 {
+        font-size: 30px;
+        line-height: normal;
+        margin-bottom: 0px;
+    }
+
+    .contatti-address-main .titlebox h2::before {
+        width: 85%;
+        bottom: -9px;
+    }
+
+    .contatti-address-main .titlebox {
+        margin-bottom: 45px;
+    }
+
+    .contatti-address-main .icon {
+        margin-bottom: 20px;
+        font-size: 25px;
+    }
+
+    .contatti-address-main .single-addresslink a {
+        font-size: 15px;
+    }
+
+    .contatti-address-main .single-addresslink {
+        margin-bottom: 20px;
+    }
+
+    .contatti-address-main .map-iframe {
+        padding: 20px 0 0 0;
+    }
+
+    .contatti-address-main .map-iframe iframe {
+        width: 100%;
+        height: 375px;
+    }
+
+    /* contatti page end here  */
+
+    /* news page start from here  */
+    .news-banner-main {
+        margin-bottom: 0;
+    }
+
+    .news-banner-main h2 {
+        margin-bottom: 9px;
+    }
+
+    .all-newslist-main {
+        padding: 50px 0;
+    }
+
+    .all-newslist-main .news-links {
+        margin-bottom: 50px;
+    }
+
+    .all-newslist-main .news-links ul li a {
+
+        font-size: 16px;
+
+    }
+
+    .all-newslist-main .card .card-body {
+        padding-top: 20px;
+        padding-left: 0;
+        padding-right: 0;
+        padding-bottom: 0;
+    }
+
+    .all-newslist-main .card .card-body .news-short-box h4 {
+
+        font-size: 20px;
+
+        margin-bottom: 15px;
+    }
+
+    .all-newslist-main .card .card-body .news-short-box h6 {
+        font-size: 17px;
+        margin-bottom: 15px;
+    }
+
+    .all-newslist-main .custom-col {
+        margin-bottom: 30px;
+    }
+
+    /* news page end here  */
+    /* news details page start from here  */
+
+    .newsdetails-main {
+        padding: 50px 0;
+    }
+
+    .newsdetails-main .card .card-body {
+        padding-top: 20px;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .newsdetails-main .card .card-body h4 {
+        font-size: 20px;
+        margin-bottom: 15px;
+        padding-bottom: 15px;
+    }
+
+    .newsdetails-main .card .card-body h6 {
+        font-size: 17px;
+        margin-bottom: 15px;
+    }
+
+    .newsdetails-main .card .card-body p {
+        font-size: 15px;
+        margin-bottom: 15px;
+    }
+
+    /* news details page end here  */
+}
+
+/* min 415px to max 575px end here  */
+
+@media (max-width: 575px) {
+    footer .single-flex-box .footer-links ul {
+        margin-bottom: 20px;
+    }
+
+    footer .footer-links-social ul {
+        margin-bottom: 40px;
+    }
+
+    .contatti-from-main .contatti-submit button {
+        width: 100%;
+        padding: 15px 0;
+        font-size: 16px;
+    }
+
+    .contatti-banner-main h2::before {
+        width: 100%;
+    }
+}
+
+@media (min-width: 376px) and (max-width: 414px) {
+    .home-slider-main .swiper-slide .slide-bg {
+        height: 232px;
+    }
+
+    .swiper-button-prev:after,
+    .swiper-button-next:after {
+        font-size: 20px;
+    }
+
+
+
+    footer {
+        /* padding: 50px 13px; */
+        padding: 50px 0;
+    }
+
+    footer .footer-logo {
+        margin-bottom: 30px;
+    }
+
+    footer .footer-last-flex .single-items {
+        flex-basis: 100%;
+    }
+
+    footer .px-0 {
+        padding-left: calc(var(--bs-gutter-x) * .5) !important;
+        padding-right: calc(var(--bs-gutter-x) * .5) !important;
+    }
+
+    footer .footersocial-flex {
+        flex-wrap: wrap;
+    }
+
+    footer .footersocial-flex .social {
+        width: 100%;
+    }
+
+    footer .footersocial-flex .red-apple {
+        width: 100%;
+    }
+
+    /* avanzata page start from here  */
+    .breadcrumb-main {
+        padding: 15px 0 15px 0;
+    }
+
+    .breadcrumb-main nav ol {
+
+        align-items: center;
+    }
+
+    .breadcrumb-main nav ol li a {
+
+        font-size: 13px;
+
+    }
+
+    .breadcrumb-main nav ol li.active {
+        font-size: 13px;
+    }
+
+    .avanzata-banner-main {
+        padding: 25px 0;
+    }
+
+    .avanzata-banner-main h2 {
+        font-size: 30px;
+        line-height: normal;
+        margin-bottom: 20px;
+
+    }
+
+    .avanzata-banner-main h2::before {
+        width: 85%;
+        bottom: -9px;
+    }
+
+    .avanzata-main .filter-main {
+        margin-bottom: 50px;
+    }
+
+    .avanzata-main .filter-main .filter-title h4 {
+        font-size: 18px;
+    }
+
+    .avanzata-main .filter-main .accordion-button {
+        font-size: 16px;
+    }
+
+    .avanzata-main .filter-main .accordion-item {
+        margin-bottom: 25px;
+
+    }
+
+
+    .avanzata-main .collection-types-main .collections-grid-main {
+        grid-template-columns: 1fr;
+        row-gap: 20px;
+    }
+
+    .avanzata-main .collection-types-main {
+        margin-bottom: 50px;
+    }
+
+    /* avanzata page ends here  */
+
+    /* contatti page start form here  */
+
+    .contatti-banner-main {
+        padding: 25px 0;
+    }
+
+    .contatti-banner-main h2 {
+        font-size: 30px;
+        line-height: normal;
+        margin-bottom: 25px;
+    }
+
+    .contatti-banner-main h2::before {
+        width: 85%;
+        bottom: -9px;
+    }
+
+    .contatti-banner-main p {
+        font-size: 15px;
+    }
+
+    .contatti-from-main {
+        padding: 50px 0;
+    }
+
+    .contatti-from-main label {
+
+        font-size: 16px;
+
+        margin-bottom: 15px;
+
+    }
+
+    .contatti-from-main input[type="text"] {
+
+        margin-bottom: 20px;
+
+    }
+
+    .contatti-from-main input[type="email"] {
+        margin-bottom: 20px;
+
+    }
+
+    .contatti-from-main .scrivo {
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+
+    .contatti-from-main .form-check label {
+        font-size: 16px;
+        line-height: 18px;
+    }
+
+    .contatti-from-main .newsletter-box {
+        padding: 30px 20px;
+        margin-bottom: 30px;
+    }
+
+    .contatti-from-main .newsletter-box p {
+        font-size: 16px;
+        margin-bottom: 25px;
+    }
+
+    .contatti-from-main .newsletter-box .form-check label {
+        font-size: 16px;
+        line-height: 18px;
+    }
+
+    .contatti-from-main textarea {
+
+        margin-bottom: 35px;
+
+        font-size: 16px;
+        min-height: 125px;
+    }
+
+    .contatti-from-main .privecy-box h6 {
+
+        font-size: 18px;
+
+        margin-bottom: 18px;
+    }
+
+    .contatti-from-main .privecy-box p {
+        font-size: 15px;
+    }
+
+    .contatti-address-main {
+        padding: 50px 0;
+    }
+
+
+    .contatti-address-main .titlebox h2 {
+        font-size: 30px;
+        line-height: normal;
+        margin-bottom: 0px;
+    }
+
+    .contatti-address-main .titlebox h2::before {
+        width: 85%;
+        bottom: -9px;
+    }
+
+    .contatti-address-main .titlebox {
+        margin-bottom: 45px;
+    }
+
+    .contatti-address-main .icon {
+        margin-bottom: 20px;
+        font-size: 25px;
+    }
+
+    .contatti-address-main .single-addresslink a {
+        font-size: 15px;
+    }
+
+    .contatti-address-main .single-addresslink {
+        margin-bottom: 20px;
+    }
+
+    .contatti-address-main .map-iframe {
+        padding: 20px 0 0 0;
+    }
+
+    .contatti-address-main .map-iframe iframe {
+        width: 100%;
+        height: 375px;
+    }
+
+    /* contatti page end here  */
+    /* news page start from here  */
+    .news-banner-main {
+        margin-bottom: 0;
+    }
+
+    .news-banner-main h2 {
+        margin-bottom: 9px;
+    }
+
+    .all-newslist-main {
+        padding: 50px 0;
+    }
+
+    .all-newslist-main .news-links {
+        margin-bottom: 50px;
+    }
+
+    .all-newslist-main .news-links ul li a {
+
+        font-size: 16px;
+
+    }
+
+    .all-newslist-main .card .card-body {
+        padding-top: 20px;
+        padding-left: 0;
+        padding-right: 0;
+        padding-bottom: 0;
+    }
+
+    .all-newslist-main .card .card-body .news-short-box h4 {
+
+        font-size: 20px;
+
+        margin-bottom: 15px;
+    }
+
+    .all-newslist-main .card .card-body .news-short-box h6 {
+        font-size: 17px;
+        margin-bottom: 15px;
+    }
+
+    .all-newslist-main .custom-col {
+        margin-bottom: 30px;
+    }
+
+    /* news page end here  */
+    /* news details page start from here  */
+
+    .newsdetails-main {
+        padding: 50px 0;
+    }
+
+    .newsdetails-main .card .card-body {
+        padding-top: 20px;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .newsdetails-main .card .card-body h4 {
+        font-size: 20px;
+        margin-bottom: 15px;
+        padding-bottom: 15px;
+    }
+
+    .newsdetails-main .card .card-body h6 {
+        font-size: 17px;
+        margin-bottom: 15px;
+    }
+
+    .newsdetails-main .card .card-body p {
+        font-size: 15px;
+        margin-bottom: 15px;
+    }
+
+    /* news details page end here  */
+}
+
+/* min 376px to max 414px end here  */
+
+@media (max-width: 414px) {}
+
+
+@media (max-width: 375px) {
+    .home-slider-main .swiper-slide .slide-bg {
+        height: 206px;
+    }
+
+    .home-slider-main .swiper-button-prev:after,
+    .home-slider-main .swiper-button-next:after {
+        font-size: 20px;
+    }
+
+
+    footer {
+        padding: 50px 13px;
+    }
+
+    footer .footer-logo {
+        margin-bottom: 30px;
+    }
+
+    footer .footer-last-flex .single-items {
+        flex-basis: 100%;
+    }
+
+    footer .px-0 {
+        padding-left: calc(var(--bs-gutter-x) * .5) !important;
+        padding-right: calc(var(--bs-gutter-x) * .5) !important;
+    }
+
+    footer .footersocial-flex {
+        flex-wrap: wrap;
+    }
+
+    footer .footersocial-flex .social {
+        width: 100%;
+    }
+
+    footer .footersocial-flex .red-apple {
+        width: 100%;
+    }
+
+    /* avanzata page start from here  */
+    .breadcrumb-main {
+        padding: 15px 0 15px 0;
+    }
+
+    .breadcrumb-main nav ol {
+
+        align-items: center;
+    }
+
+    .breadcrumb-main nav ol li a {
+
+        font-size: 13px;
+
+    }
+
+    .breadcrumb-main nav ol li.active {
+        font-size: 13px;
+    }
+
+    .avanzata-banner-main {
+        padding: 25px 0;
+    }
+
+    .avanzata-banner-main h2 {
+        font-size: 30px;
+        line-height: normal;
+        margin-bottom: 20px;
+
+    }
+
+    .avanzata-banner-main h2::before {
+        width: 85%;
+        bottom: -9px;
+    }
+
+    .avanzata-main .filter-main {
+        margin-bottom: 50px;
+    }
+
+    .avanzata-main .filter-main .filter-title h4 {
+        font-size: 18px;
+    }
+
+    .avanzata-main .filter-main .accordion-button {
+        font-size: 16px;
+    }
+
+    .avanzata-main .filter-main .accordion-item {
+        margin-bottom: 25px;
+
+    }
+
+
+    .avanzata-main .collection-types-main .collections-grid-main {
+        grid-template-columns: 1fr;
+        row-gap: 20px;
+    }
+
+    .avanzata-main .collection-types-main {
+        margin-bottom: 50px;
+    }
+
+    /* avanzata page ends here  */
+
+    /* contatti page start form here  */
+
+    .contatti-banner-main {
+        padding: 25px 0;
+    }
+
+    .contatti-banner-main h2 {
+        font-size: 30px;
+        line-height: normal;
+        margin-bottom: 25px;
+    }
+
+    .contatti-banner-main h2::before {
+        width: 85%;
+        bottom: -9px;
+    }
+
+    .contatti-banner-main p {
+        font-size: 15px;
+    }
+
+    .contatti-from-main {
+        padding: 50px 0;
+    }
+
+    .contatti-from-main label {
+
+        font-size: 16px;
+
+        margin-bottom: 15px;
+
+    }
+
+    .contatti-from-main input[type="text"] {
+
+        margin-bottom: 20px;
+
+    }
+
+    .contatti-from-main input[type="email"] {
+        margin-bottom: 20px;
+
+    }
+
+    .contatti-from-main .scrivo {
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+
+    .contatti-from-main .form-check label {
+        font-size: 16px;
+        line-height: 18px;
+    }
+
+    .contatti-from-main .newsletter-box {
+        padding: 30px 20px;
+        margin-bottom: 30px;
+    }
+
+    .contatti-from-main .newsletter-box p {
+        font-size: 16px;
+        margin-bottom: 25px;
+    }
+
+    .contatti-from-main .newsletter-box .form-check label {
+        font-size: 16px;
+        line-height: 18px;
+    }
+
+    .contatti-from-main textarea {
+
+        margin-bottom: 35px;
+
+        font-size: 16px;
+        min-height: 125px;
+    }
+
+    .contatti-from-main .privecy-box h6 {
+
+        font-size: 18px;
+
+        margin-bottom: 18px;
+    }
+
+    .contatti-from-main .privecy-box p {
+        font-size: 15px;
+    }
+
+    .contatti-address-main {
+        padding: 50px 0;
+    }
+
+
+    .contatti-address-main .titlebox h2 {
+        font-size: 30px;
+        line-height: normal;
+        margin-bottom: 0px;
+    }
+
+    .contatti-address-main .titlebox h2::before {
+        width: 85%;
+        bottom: -9px;
+    }
+
+    .contatti-address-main .titlebox {
+        margin-bottom: 45px;
+    }
+
+    .contatti-address-main .icon {
+        margin-bottom: 20px;
+        font-size: 25px;
+    }
+
+    .contatti-address-main .single-addresslink a {
+        font-size: 15px;
+    }
+
+    .contatti-address-main .single-addresslink {
+        margin-bottom: 20px;
+    }
+
+    .contatti-address-main .map-iframe {
+        padding: 20px 0 0 0;
+    }
+
+    .contatti-address-main .map-iframe iframe {
+        width: 100%;
+        height: 375px;
+    }
+
+    /* contatti page end here  */
+
+    /* news page start from here  */
+    .news-banner-main {
+        margin-bottom: 0;
+    }
+
+    .news-banner-main h2 {
+        margin-bottom: 9px;
+    }
+
+    .all-newslist-main {
+        padding: 50px 0;
+    }
+
+    .all-newslist-main .news-links {
+        margin-bottom: 50px;
+    }
+
+    .all-newslist-main .news-links ul li a {
+
+        font-size: 16px;
+
+    }
+
+    .all-newslist-main .card .card-body {
+        padding-top: 20px;
+        padding-left: 0;
+        padding-right: 0;
+        padding-bottom: 0;
+    }
+
+    .all-newslist-main .card .card-body .news-short-box h4 {
+
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+
+    .all-newslist-main .card .card-body .news-short-box h6 {
+        font-size: 17px;
+        margin-bottom: 15px;
+    }
+
+    .all-newslist-main .custom-col {
+        margin-bottom: 30px;
+    }
+
+    /* news page end here  */
+
+    /* news details page start from here  */
+
+    .newsdetails-main {
+        padding: 50px 0;
+    }
+
+    .newsdetails-main .card .card-body {
+        padding-top: 20px;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .newsdetails-main .card .card-body h4 {
+        font-size: 20px;
+        margin-bottom: 15px;
+        padding-bottom: 15px;
+    }
+
+    .newsdetails-main .card .card-body h6 {
+        font-size: 17px;
+        margin-bottom: 15px;
+    }
+
+    .newsdetails-main .card .card-body p {
+        font-size: 15px;
+        margin-bottom: 15px;
+    }
+
+    /* news details page end here  */
+}
+
+/* max 375px end here  */
